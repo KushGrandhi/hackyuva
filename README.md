@@ -1,7 +1,7 @@
 # hackyuva
 
 problem statement 3:
- update 1 ---
- front end - website interface
+ update 2 ---
+ front end - website interface- updated with login page-connected with other pages
  app - app interface
- back end - connections with database
+ back end - connections with database-database updated with data

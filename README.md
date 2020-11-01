@@ -1,6 +1,6 @@
 # Submission by Team Zabardast for HackYuva
 Entry of Team Zabardast, from SRM Institute of Science and Technology, Kattankulathur, to HackYuva.
-
+<p align="left"><img width=25% src="ZabardastLogo.jpg"></p>
 <h2 align= "left"><b>Idea and Solution</b></h2>
 
 Idea:

@@ -1,10 +1,6 @@
 # Submission by Team Zabardast for HackYuva
 Entry of Team Zabardast, from SRM Institute of Science and Technology, Kattankulathur, to HackYuva.
 
-
-
-# RESULT : Update
-
 <h2 align= "left"><b>Idea and Solution</b></h2>
 
 Idea:
@@ -53,9 +49,9 @@ connect people with similar interests and adequate experience.
 
 </p>
 <a href="https://github.com/Blazikengr8">
-<h4 align="left"><b>Abhigyan Singh</b></a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<a href="https://github.com/KushGrandhi"><b>Kusum Grandhi</b>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<a href="https://github.com/Advaith123"><b>Advaith Suresh</b>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<h4 align="left"><b>Abhigyan Singh</b></a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<a href="https://github.com/KushGrandhi"><b>Kusum Grandhi</b>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<a href="https://github.com/Advaith123"><b>Advaith Suresh</b>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 <a href="https://github.com/yogeshrdr"><b>Yogesh</b>
   
   </h4></a>

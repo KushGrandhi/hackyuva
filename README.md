@@ -53,7 +53,7 @@ connect people with similar interests and adequate experience.
 <p align="left">
 <img width=20% src="https://avatars0.githubusercontent.com/u/60261112">&ensp;&ensp;&ensp;
 <img width=20% src="https://avatars3.githubusercontent.com/u/52799941">&ensp;&ensp;&ensp;
-<img width=20% src="https://avatars2.githubusercontent.com/u/56351354">&ensp;&ensp;&ensp;
+<img width=20% src="https://avatars3.githubusercontent.com/u/56351354">&ensp;&ensp;&ensp;
 <img width=20% src="https://avatars1.githubusercontent.com/u/70858211">&ensp;&ensp;&ensp;
 
 </p>

@@ -18,6 +18,15 @@ for the right answer to reach the question using AI to help
 connect people with similar interests and adequate experience.
 ◦ Open source with personalisation.
 
+<h2 align= "left"><b>A Peek at our Website</b></h2>
+
+<p align="left">
+<img width=40% src="web/screenshots/Screenshot%20from%202020-11-01%2008-42-43.png"> &ensp;
+<img width=40% src="web/screenshots/Screenshot%20from%202020-11-01%2008-45-38.png"> &ensp;
+<img width=40% src="web/screenshots/Screenshot%20from%202020-11-01%2008-46-15.png"> &ensp;
+<img width=40% src="web/screenshots/Screenshot%20from%202020-11-01%2008-49-10.png"> &ensp;
+</p>
+
 <h2 align= "left"><b>Tech Stack Used</b></h2>
 
 *WEB*

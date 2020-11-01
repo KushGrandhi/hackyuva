@@ -10,7 +10,7 @@ We decided to come up with a Solution which makes the lives of children easier i
 
 <h2 align= "left"><b>Our Product</b></h2>
 
-We at Team Zabardast present before you,<b>"EduGrow"</b> 
+We at Team Zabardast present before you,<b>"EduGro"</b> 
 - This project address the current issue of not being able to
 connect the beginners to right mentors.
 - We are trying to help increase the average response time it takes
